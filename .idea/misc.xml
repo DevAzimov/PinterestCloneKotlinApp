@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/drawable-anydpi/ic_back.xml" value="0.1655" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/drawable-anydpi/ic_message.xml" value="0.1625" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/drawable-xhdpi/black_cursor.xml" value="0.1655" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/drawable-xhdpi/shape_rounded.xml" value="0.1655" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/drawable-xhdpi/shape_rounded_categories.xml" value="0.1655" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/drawable-xhdpi/shape_rounded_ideas_number.xml" value="0.1655" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/drawable/bg.xml" value="0.237" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/drawable/bg_black.xml" value="0.1625" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/drawable/bg_gray.xml" value="0.1105" />
@@ -18,8 +23,16 @@
         <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/layout/fragment_message.xml" value="0.24375" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/layout/fragment_profile.xml" value="0.24375" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/layout/fragment_search.xml" value="0.264" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/layout/fragment_search_explore.xml" value="0.24375" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/layout/fragment_search_page.xml" value="0.24375" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/layout/fragment_search_result_page.xml" value="0.24375" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/layout/item_home_fragment.xml" value="0.2550231839258114" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/layout/item_ideas_page.xml" value="0.2" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/layout/item_photos_view.xml" value="0.136" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/layout/item_popular_page.xml" value="0.24375" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/layout/item_search_fragment.xml" value="0.24375" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/layout/item_search_helper_text.xml" value="0.24375" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/layout/item_search_profiles.xml" value="1.018092105263158" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/PinterestCloneKotlinApp/app/src/main/res/menu/menu_items.xml" value="0.24375" />
       </map>
     </option>

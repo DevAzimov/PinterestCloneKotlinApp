@@ -1,7 +1,8 @@
 package com.magicapp.pinterestclonekotlinapp.models
 
-class PhotoList : ArrayList<PhotoElement>()
-data class PhotoElement (
+class PhotoList : ArrayList<PhotoElements>()
+
+data class PhotoElements (
     val id: String? = null,
     val createdAt: String? = null,
     val updatedAt: String? = null,

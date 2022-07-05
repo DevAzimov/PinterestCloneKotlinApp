@@ -1,6 +1,6 @@
 package com.magicapp.pinterestclonekotlinapp.networks
 
-import com.magicapp.pinterestclonekotlinapp.models.PhotoElement
+import com.magicapp.pinterestclonekotlinapp.models.PhotoElements
 import com.magicapp.pinterestclonekotlinapp.networks.service.PhotoService
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

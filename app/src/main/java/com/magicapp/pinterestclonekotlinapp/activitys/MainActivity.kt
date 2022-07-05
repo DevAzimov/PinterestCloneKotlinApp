@@ -16,8 +16,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var context: Context
 
     companion object {
-        const val FIRST_PAGE = 1
-        const val PER_PAGE = 20
+        const val myProfile =
+            "https://www.instagram.com/p/CT76FjygzBl/?utm_source=ig_web_copy_link"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
