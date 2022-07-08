@@ -20,7 +20,7 @@
         android:ellipsize="end"
         android:maxLines="1"
         android:paddingHorizontal="10dp"
-        android:text="people"
+        android:text="@string/str_people"
         android:textColor="@color/black"
         android:textSize="17sp"
         android:textStyle="bold" />

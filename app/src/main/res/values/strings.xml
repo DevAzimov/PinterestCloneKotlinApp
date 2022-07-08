@@ -2,4 +2,13 @@
     <string name="app_name">PinterestCloneKotlinApp</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_galaxy_wallpapers">Galaxy Wallpapers</string>
+    <string name="str_people">people</string>
+    <string name="str_popular_mechanics">Popular Mechanics</string>
+    <string name="str_237k_followers">237k followers</string>
+    <string name="str_follow">Follow</string>
+    <string name="str_ideas_from_creators">Ideas from creators</string>
+    <string name="str_popular_on_pinterest">Popular on Pinterest</string>
+    <string name="str_all">All</string>
+    <string name="str_muslim">Muslim</string>
 </resources>

@@ -73,7 +73,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:singleLine="true"
-                android:text="Popular Mechanics"
+                android:text="@string/str_popular_mechanics"
                 android:textColor="@color/black"
                 android:textSize="19sp"
                 android:textStyle="bold" />
@@ -82,7 +82,7 @@
                 android:id="@+id/tv_followers"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="237k followers"
+                android:text="@string/str_237k_followers"
                 android:textColor="#787878"
                 android:textSize="14sp" />
 
@@ -95,7 +95,7 @@
             android:background="@drawable/shape_rounded_categories"
             android:backgroundTint="@color/tv_tint_light"
             android:padding="10dp"
-            android:text="Follow"
+            android:text="@string/str_follow"
             android:textColor="@color/text_color"
             android:textSize="17sp"
             android:textStyle="bold" />

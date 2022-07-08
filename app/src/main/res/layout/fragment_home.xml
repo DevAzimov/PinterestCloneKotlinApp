@@ -19,7 +19,7 @@
         android:background="@drawable/bg_black"
         android:paddingHorizontal="20dp"
         android:paddingVertical="10dp"
-        android:text="All"
+        android:text="@string/str_all"
         android:textColor="@color/white"
         android:textSize="17sp"
         android:textStyle="bold" />

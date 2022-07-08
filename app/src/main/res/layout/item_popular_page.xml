@@ -30,7 +30,7 @@
         android:ellipsize="end"
         android:gravity="center"
         android:maxLines="2"
-        android:text="Galaxy Wallpapers"
+        android:text="@string/str_galaxy_wallpapers"
         android:textColor="@color/white"
         android:textSize="16sp"
         android:textStyle="bold" />

@@ -74,7 +74,7 @@
                             android:id="@+id/tv_fullname"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:text="Muslim"
+                            android:text="@string/str_muslim"
                             android:layout_marginRight="5dp"
                             android:singleLine="true"
                             android:textColor="@color/black"
